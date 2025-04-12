@@ -23,6 +23,8 @@ variable "service_accounts_configurations" {
       trustlevel = "high"
       owner_email = ""
       app_name = ""
+      domain = ""
+      owneremail = ""
     })
   }))
   
